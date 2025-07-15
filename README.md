@@ -37,6 +37,8 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 
 ## 📁 Project Structure
 
+<pre> <code> ``` Netflix_Clone/ │ ├── assets/ │ ├── images/ │ └── videos/ │ ├── index.html ├── style.css └── README.md ``` </code> </pre>
+
     ```sh
         Netflix_Clone/
         │
@@ -52,45 +54,6 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 - Place custom images in `assets/images/`.
 - Place video demonstration files (if any) in `assets/videos/`.
 
-## ✏️ Customization
-
-- Edit text or UI in `index.html`.
-- Tweak style and layout in `style.css`.
-- Replace images/logos as desired (in `assets/images/`).
-
-## ℹ️ Notes
-
-- This is a **front-end only** clone. No backend, authentication, or real media streaming.
-- All interactions (e.g., FAQ expand/collapse, form) are UI demonstration only.
-- Feel free to modify or extend for your portfolio or learning!
-
-
-
-
-
-## Getting Started
-
-1. **Clone the repository**
-    ```sh
-    git clone [https://github.com/aryanbhanot05/Amazon_Clone.git](https://github.com/aryanbhanot05/Amazon_Clone.git)
-    ```
-
-2. **Navigate to the project directory**
-    ```sh
-    git clone [https://github.com/aryanbhanot05/Amazon_Clone.git](https://github.com/aryanbhanot05/Amazon_Clone.git)
-    ```
-
-3. **Open `index.html` in your web browser**
-
-- You can double-click the file or open it using a live server extension for a better development experience.
-
-## File Structure
-
-| File         | Description                                      |
-|--------------|--------------------------------------------------|
-| `index.html` | Main landing page with all structural elements    |
-| `style.css`  | CSS styles for layout, animations, and effects    |
-| `assets/`    | (if present) Store images, GIFs, video demos, etc.|
 
 ## Key Sections
 
@@ -101,7 +64,7 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 - **FAQ Accordion:** Expandable questions for a realistic help center experience.
 - **Footer:** Useful links and secondary language selector.
 
-## Customization
+## ✏️ Customization
 
 - **Images:** Replace placeholder images in `assets/images/` to personalize the UI.
 - **Content:** Update static texts and feature highlights in `index.html` as desired.
@@ -113,23 +76,13 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 - Mobile-friendly navigation and form controls.
 - Grid and flex layouts for consistent alignment and spacing.
 
-## Notes
 
-- No backend or JavaScript: This clone is a UI demonstration only; there is no functional authentication or streaming.
-- Use modern browsers for best appearance and performance.
-- Parental controls and downloads are simulated for demonstration purposes.
+## ℹ️ Notes
 
-## 📸 Screenshots
+- This is a **front-end only** clone. No backend, authentication, or real media streaming.
+- All interactions (e.g., FAQ expand/collapse, form) are UI demonstration only.
+- Feel free to modify or extend for your portfolio or learning!
 
-Here are a few snapshots of the project.
-
-**Homepage View**
-![Homepage](./assets/Home.png)
-
-**Language Dropdown**
-![Products](./assets/dropdown_working.png)
-
----
 
 ## 📞 Contact
 
