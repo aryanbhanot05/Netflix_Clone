@@ -49,13 +49,13 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 Here are a few snapshots of the project.
 
 **Desktop View**
-![Desktop](assets/screenshots/desktop1.png)
-![Desktop](assets/screenshots/desktop2.png)
-![Desktop](assets/screenshots/desktop3.png)
+![Desktop](assets/images/desktop1.png)
+![Desktop](assets/images/desktop2.png)
+![Desktop](assets/images/desktop3.png)
 
 **Mobile View**
-![Mobile](assets/screenshots/mobile1.png)(assets/screenshots/mobile2.png)
-![Mobile](assets/screenshots/mobile3.png)(assets/screenshots/mobile4.png)
+![Mobile](assets/images/mobile1.png)![Mobile](assets/images/mobile2.png)
+![Mobile](assets/images/mobile3.png)![Mobile](assets/images/mobile4.png)
 
 ## Key Sections
 
