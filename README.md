@@ -37,19 +37,16 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 
 ## 📁 Project Structure
 
-<pre> <code> ``` Netflix_Clone/ │ ├── assets/ │ ├── images/ │ └── videos/ │ ├── index.html ├── style.css └── README.md ``` </code> </pre>
-
-    ```sh
-        Netflix_Clone/
-        │
-        ├── assets/
-        │ ├── images/
-        │ └── videos/
-        │
-        ├── index.html
-        ├── style.css
-        └── README.md
-    ```
+<pre><code> Netflix_Clone/ 
+            │ 
+            ├── assets/ 
+            │ ├── images/ 
+            │ └── videos/ 
+            │ 
+            ├── index.html 
+            ├── style.css 
+            └── README.md
+</code> </pre>
 
 - Place custom images in `assets/images/`.
 - Place video demonstration files (if any) in `assets/videos/`.
