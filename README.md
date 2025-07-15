@@ -12,11 +12,6 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
 - **Download Simulation:** Demonstrates features like offline download prompts and multi-device streaming (UI only).
 - **Customizable FAQ Section:** Interactive dropdowns resemble the help/FAQ section on Netflix.
 
-## 📸 Screenshots
-
-<!-- Add your own screenshots in the assets directory and reference here -->
-![Desktop View](assets/screenshots/desktop.png)
-![Mobile View](assets/screenshots/mobile.png)
 
 ## 🛠️ Getting Started
 
@@ -49,9 +44,18 @@ A responsive **Netflix landing page clone** built using HTML and CSS, closely re
     └── README.md
 </code> </pre>
 
-- Place custom images in `assets/images/`.
-- Place video demonstration files (if any) in `assets/videos/`.
+## 📸 Screenshots
 
+Here are a few snapshots of the project.
+
+**Desktop View**
+(assets/screenshots/desktop1.png)
+(assets/screenshots/desktop2.png)
+(assets/screenshots/desktop3.png)
+
+**Mobile View**
+(assets/screenshots/mobile1.png)(assets/screenshots/mobile2.png)
+(assets/screenshots/mobile3.png)(assets/screenshots/mobile4.png)
 
 ## Key Sections
 
@@ -88,4 +92,4 @@ Aryan Bhanot - aryanbhanot05@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/aryan-bhanot-609650245/
 
-Project Link: [https://github.com/aryanbhanot05/Amazon_Clone](https://github.com/aryanbhanot05/Amazon_Clone)
+Project Link: [https://github.com/aryanbhanot05/Netflix_Clone](https://github.com/aryanbhanot05/Netflix_Clone)
